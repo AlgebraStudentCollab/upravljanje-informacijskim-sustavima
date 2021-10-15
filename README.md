@@ -1,18 +1,18 @@
 <div align="center">
 	<h3 align="center">[Naziv Kolegija]</h3>
 	<p align="center">
-		[Naziv Kolegija] - [Semestar] - Algebra - [Smjer] - [Broj ECTSA]
+		Upravljanje informacijskim sustavima - 5. semestar - Algebra - Programsko Inžinjerstvo - 4 ECTS
 		<br />
 		<br />
-		<a href="">
+		<a href="https://github.com/AlgebraStudentCollab/upravljanje-informacijskim-sustavima/issues">
 			Notes
 		</a>
 		<span> · </span>
-		<a href="https://github.com/AlgebraStudentCollab/course-template/issues">
+		<a href="https://github.com/AlgebraStudentCollab/upravljanje-informacijskim-sustavima/issues">
 			Report Bug
 		</a>
 		<span> · </span>
-		<a  href="https://github.com/AlgebraStudentCollab/course-template/issues">
+		<a  href="https://github.com/AlgebraStudentCollab/upravljanje-informacijskim-sustavima/issues">
 			Request Feature
 		</a>
 	</p>
@@ -20,20 +20,20 @@
 
 <div align='center'>
 	<p align="center"><em>- Quick Links (login required) -</em></p>
-	<a href="[Do Predmeta]">
+	<a href="https://student.racunarstvo.hr/digitalnareferada/#/predmet/3374">
 	<img src='https://img.shields.io/badge/infoeduka-blue?style=for-the-badge'>
 	</a>
-	<a  href="mailto:[Kontakt Mail]">
-	<img src='https://img.shields.io/badge/contact-green?style=for-the-badge'>
+	<a  href="https://student.racunarstvo.hr/digitalnareferada/#/ocjene">
+	<img src='https://img.shields.io/badge/points-green?style=for-the-badge'>
 	</a>
-	<a  href="[Do Prisustva]">
+	<a  href="https://student.racunarstvo.hr/digitalnareferada/#/prisustva">
 	<img src='https://img.shields.io/badge/attendence-red?style=for-the-badge'>
 	</a>
 </div>
 
 ## Summary
 
-[O Kolegiju]
+Usvajanje pojmova, koncepata, znanja i vještina upravljanja informacijskim sustavima
 
 
 ## Comunity
@@ -45,7 +45,7 @@
 
 ## Deadlines
 
-[Rokovi predaje]
+-
 
 
 ## Instalation
@@ -56,18 +56,16 @@
 
 ## Curriculum
 
-[Kolegij]
-
+- I1 – Temeljni pojmovi i koncepti UIS 
+- I2 – Upravljanje informacijskim sustavima (COBIT) 
+- I3 – Standardi u upravljanju informacijskim sustavima 
+- I4 – Upravljanje informacijskim uslugama (ITIL)
 
 ## Tutorials
 
-[O Kolegiju]
+Links to usefull resources: 
 
-
-## Roadmap
-
-- [ ] [Task 1]
-- [ ] [Task 2]
+## Project themes
 
 ## Code of conduct
 
@@ -75,11 +73,4 @@
 
 ## Licence
 
-[LICENCE]
- 
-
-## Team
-
-- [Member]
-- [Member]
-- [Member]
+MIT

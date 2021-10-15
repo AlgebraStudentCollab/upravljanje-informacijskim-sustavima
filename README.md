@@ -1,5 +1,5 @@
 <div align="center">
-	<h3 align="center">[Naziv Kolegija]</h3>
+	<h3 align="center">Upravljanje informacijskim sustavima</h3>
 	<p align="center">
 		Upravljanje informacijskim sustavima - 5. semestar - Algebra - Programsko Inžinjerstvo - 4 ECTS
 		<br />

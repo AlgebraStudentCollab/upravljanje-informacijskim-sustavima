@@ -45,8 +45,11 @@ Usvajanje pojmova, koncepata, znanja i vještina upravljanja informacijskim sust
 
 ## Deadlines
 
--
+Do kraja ispitnih rokova u veljači
 
+Ostali rokovi za predaju projektnih zadataka:
+- 30.06. (-5 bodova)
+- 15.09. (-10 bodova)
 
 ## Instalation
 
